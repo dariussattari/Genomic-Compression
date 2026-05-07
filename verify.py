@@ -47,7 +47,7 @@ if __name__ == '__main__':
     # ── Load model ──
     model = DecoderOnlyTransformer(
         vocab_size=4096, embed_dim=512, num_heads=8,
-        num_layers=8, tie_weights=True,
+        num_layers=12, tie_weights=True,
     ).to(device)
 
     checkpoint = torch.load(args.checkpoint, map_location=device, weights_only=False)
