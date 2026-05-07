@@ -133,7 +133,7 @@ Open `notebooks/visualizations.ipynb` in Colab and run top to bottom. The notebo
 
 If you use this work, please cite:
 
-> Sattari, D., Boateng, K. *Genomic Compression with Decoder-Only Transformers.* 2026.
+> Boateng, K, Sattari, D. *Genomic Compression with Decoder-Only Transformers.* 2026.
 
 A link to the paper will be added once available.
 
