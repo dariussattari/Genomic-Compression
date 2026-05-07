@@ -52,7 +52,7 @@ cd genomic-compression
 pip install -r requirements.txt
 ```
 
-A CUDA GPU with at least 16 GB of memory is recommended for training. Inference (encode / decode) runs on CPU but is much slower.
+A CUDA GPU with at least 16 GB of memory is recommended for training. Inference (encode / decode) runs on CPU but is much slower. The authors used Google Colab Pro for compute resources.
 
 
 ## Reproducing the results
