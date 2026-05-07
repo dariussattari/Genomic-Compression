@@ -1,0 +1,7 @@
+torch>=2.1
+numpy>=1.24
+constriction>=0.4
+
+# Optional, used by the analysis notebooks
+matplotlib>=3.7
+umap-learn>=0.5
