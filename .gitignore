@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+env/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Data and model artifacts
+checkpoints/
+sae_checkpoints/
+figures/
+data/
+tokenized_data/
+*.npy
+*.pt
+*.pth
+
+# Reference genome
+GCF_*.txt
+GCF_*.fna
+*.fasta
+*.fa
